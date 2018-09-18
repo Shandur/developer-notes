@@ -7,3 +7,6 @@ Consists of useful links, articles etc which are related to programming.
 
 # Exceptions
 Exception structuring - https://www.alainschlesser.com/structuring-php-exceptions/
+
+# Code guideline
+Type-safe Arrays of Objects - https://www.schmengler-se.de/en/2017/04/php-7-type-safe-arrays-of-objects/
