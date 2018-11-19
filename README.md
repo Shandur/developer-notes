@@ -13,3 +13,6 @@ Type-safe Arrays of Objects - https://www.schmengler-se.de/en/2017/04/php-7-type
 
 # Arhitecture goodies
 Saga Pattern - https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+
+# Algorithms
+Algoritms visualization - https://visualgo.net/en
