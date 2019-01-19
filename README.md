@@ -26,3 +26,8 @@ Algoritms visualization - https://visualgo.net/en
 
 # JavaScript Goodies
 Functional JS with ES6 — Recursive Patterns - https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3
+
+# Core Reviews
+Code Reviewing Comments - https://www.selfelected.com/code-reviewing-comments/
+How to Speed Up a Code Review (split by categories) - https://sergeyzhuk.me/2018/12/29/code_review/
+
