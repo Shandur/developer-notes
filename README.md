@@ -30,4 +30,5 @@ Functional JS with ES6 — Recursive Patterns - https://medium.com/dailyjs/funct
 # Core Reviews
 Code Reviewing Comments - https://www.selfelected.com/code-reviewing-comments/
 How to Speed Up a Code Review (split by categories) - https://sergeyzhuk.me/2018/12/29/code_review/
+Managing Backlog with Jira - https://dou.ua/lenta/articles/managing-backlog-with-jira/?from=hover-news-widget
 
