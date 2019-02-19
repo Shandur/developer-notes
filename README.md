@@ -23,6 +23,7 @@ Value Objects - https://dzone.com/articles/value-objects
 
 # Algorithms
 Algoritms visualization - https://visualgo.net/en
+Big-O complexity cheat-sheet - http://bigocheatsheet.com/
 
 # JavaScript Goodies
 Functional JS with ES6 — Recursive Patterns - https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3
