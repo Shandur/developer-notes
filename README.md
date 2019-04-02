@@ -37,3 +37,6 @@ Managing Backlog with Jira - https://dou.ua/lenta/articles/managing-backlog-with
 # Machine Learning & Data Science
 
 Исследования в Machine Learning: как, кому и зачем - https://dou.ua/lenta/articles/machine-learning-research/
+
+# Golang
+Dave Cheney Blog -- https://dave.cheney.net/category/golang
