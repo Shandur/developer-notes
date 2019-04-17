@@ -47,3 +47,7 @@ Managing Backlog with Jira - https://dou.ua/lenta/articles/managing-backlog-with
 Dave Cheney Blog -- https://dave.cheney.net/category/golang
 
 Anatimy of channels(sync, race conditions, deadlocks) -- https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
+
+# PHP Async
+
+Laravel Swoole -- https://laravel-news.com/laravel-swoole
