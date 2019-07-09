@@ -51,3 +51,6 @@ Anatimy of channels(sync, race conditions, deadlocks) -- https://medium.com/rung
 # PHP Async
 
 Laravel Swoole -- https://laravel-news.com/laravel-swoole
+
+# Database
+[PostgreSLQ: JSON Query array against multiple values](https://dba.stackexchange.com/questions/130699/postgresql-json-query-array-against-multiple-values)
