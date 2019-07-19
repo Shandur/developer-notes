@@ -58,3 +58,6 @@ Laravel Swoole -- https://laravel-news.com/laravel-swoole
 
 # Database
 [PostgreSLQ: JSON Query array against multiple values](https://dba.stackexchange.com/questions/130699/postgresql-json-query-array-against-multiple-values)
+
+# Laravel
+[Bet Practises and libraries to save time in Laravel development](https://medium.com/@alexrenoki/pushing-laravel-further-best-tips-good-practices-for-laravel-5-7-ac97305b8cac)
