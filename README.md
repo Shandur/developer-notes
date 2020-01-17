@@ -18,13 +18,14 @@ Type-safe Arrays of Objects - https://www.schmengler-se.de/en/2017/04/php-7-type
 Value Objects - https://dzone.com/articles/value-objects
 
 # Arhitecture goodies
-1. Saga Pattern - https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
-2. DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together:
-  
-  en: https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
-  
-  ru: https://habr.com/post/427739/
 
+Saga Pattern - https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+
+DDD, Hexagonal, Onion, Clean, CQRS, How I put it all together:
+- en - https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together
+- ru - https://habr.com/post/427739
+
+C4 Model (drawing diagrams) - https://c4model.com
 
 # Algorithms
 Algoritms visualization - https://visualgo.net/en
