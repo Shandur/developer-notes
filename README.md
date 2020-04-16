@@ -27,6 +27,8 @@ DDD, Hexagonal, Onion, Clean, CQRS, How I put it all together:
 
 C4 Model (drawing diagrams) - https://c4model.com
 
+What’s the right size for a Microservice? - https://medium.com/@kylegenebrown/whats-the-right-size-for-a-microservice-bf1740370d47
+
 # Algorithms
 Algoritms visualization - https://visualgo.net/en
 
