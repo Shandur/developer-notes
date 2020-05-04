@@ -29,6 +29,8 @@ C4 Model (drawing diagrams) - https://c4model.com
 
 What’s the right size for a Microservice? - https://medium.com/@kylegenebrown/whats-the-right-size-for-a-microservice-bf1740370d47
 
+Bounded Context Canvas - https://medium.com/nick-tune-tech-strategy-blog/bounded-context-canvas-v2-simplifications-and-additions-229ed35f825f
+
 # Algorithms
 Algoritms visualization - https://visualgo.net/en
 
