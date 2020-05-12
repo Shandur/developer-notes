@@ -8,6 +8,7 @@ Consists of useful links, articles etc which are related to programming.
 # Blogs/accounts to read
 [SapiensWork](http://blog.sapiensworks.com/tags.html#Domain%20driven%20design)
 [EaDog](https://eatdog.com.ua)
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 
 # Exceptions
